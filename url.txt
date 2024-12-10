@@ -1,6 +1,6 @@
 {
     "urlFile": "C:\\FikirIscileri\\Results\\url.txt",
-    "solrUrl": "http://10.34.102.8:8686/solr/newsmain/",
+    "solrUrl": "",
     "resultFolder": "C:\\FikirIscileri\\Results\\",
     "isTest": false,
     "threadCount": 1,
